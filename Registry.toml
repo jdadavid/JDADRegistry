@@ -1,0 +1,6 @@
+name = "JDADRegistry"
+uuid = "6ee1e5cb-4a57-4172-83cd-525efe6a9769"
+repo = "https://github.com/jdadavid/JDADRegistry"
+description = "JDAD's local registry"
+
+[packages]
