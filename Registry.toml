@@ -4,3 +4,4 @@ repo = "https://github.com/jdadavid/JDADRegistry"
 description = "JDAD's local registry"
 
 [packages]
+36f29041-dd36-490d-b945-e44981033781 = { name = "Yfjd", path = "Y/Yfjd" }
