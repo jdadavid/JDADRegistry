@@ -5,3 +5,4 @@ description = "JDAD's local registry"
 
 [packages]
 36f29041-dd36-490d-b945-e44981033781 = { name = "Yfjd", path = "Y/Yfjd" }
+9069222b-375b-4282-9f02-7ef1f33c832c = { name = "BogoMips", path = "B/BogoMips" }

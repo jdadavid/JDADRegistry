@@ -1,0 +1,3 @@
+name = "BogoMips"
+uuid = "9069222b-375b-4282-9f02-7ef1f33c832c"
+repo = "https://github.com/jdadavid/Bogomips.jl"
