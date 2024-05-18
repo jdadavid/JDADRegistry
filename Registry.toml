@@ -4,5 +4,6 @@ repo = "https://github.com/jdadavid/JDADRegistry"
 description = "JDAD's local registry"
 
 [packages]
+2c8b1d07-a307-4b2a-a759-6f21530356e3 = { name = "StableDistributionsParametrized", path = "S/StableDistributionsParametrized" }
 36f29041-dd36-490d-b945-e44981033781 = { name = "Yfjd", path = "Y/Yfjd" }
 9069222b-375b-4282-9f02-7ef1f33c832c = { name = "BogoMips", path = "B/BogoMips" }
